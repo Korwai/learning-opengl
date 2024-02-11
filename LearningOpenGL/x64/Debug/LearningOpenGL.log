@@ -1,2 +1,5 @@
-﻿  Main.cpp
+﻿  shaderClass.cpp
+  VBO.cpp
+  Generating Code...
+  glad.c
   LearningOpenGL.vcxproj -> C:\Users\Alex Liu\source\repos\LearningOpenGL\x64\Debug\LearningOpenGL.exe
